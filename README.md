@@ -18,3 +18,5 @@ For more information about Markdown syntax, see the [Markdown Cheat Sheet](https
 Practicing version control
 
 This is some text.
+
+Another change.
